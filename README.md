@@ -13,3 +13,6 @@ In the very center is a svg of the phase of the moon on the date a person was bo
 The color of the rings reperasent the element of the month the person was born in.
 
 The notches on the outside show what letters are in a persons name.
+
+# Uses code from:
+https://gist.github.com/endel/dfe6bb2fbe679781948c
