@@ -7,16 +7,19 @@
     <canvas id="symbol" width="300" height="300"></canvas>
 
     <div class="input">
-      <input type="date" name="" value="" id="test"onchange="loga()">
+      <input type="date" name="" value="" id="birthdate"onchange="generate()">
       <label for="male-true">male</label>
-      <input type="checkbox" name="" value="" id="male-true" onchange="loga()">
-
-      <label for="male-true">born in the southern hemisphere</label>
-      <input type="checkbox" name="" value="" id="hemisphere" onchange="loga()">
+      <input type="checkbox" name="" value="" id="male-true" onchange="generate()">
 
       <div>
-        <input type="text" name="" value="" placeholder="firstname" onchange="loga()" id="fn">
-        <input type="text" name="" value="" placeholder="lastname" onchange="loga()" id="ln">
+        <label for="male-true">born in the southern hemisphere</label>
+        <input type="checkbox" name="" value="" id="hemisphere" onchange="generate()">
+      </div>
+
+
+      <div>
+        <input type="text" name="" value="" placeholder="firstname" onchange="generate()" id="fn">
+        <input type="text" name="" value="" placeholder="lastname" onchange="generate()" id="ln">
       </div>
     </div>
 
