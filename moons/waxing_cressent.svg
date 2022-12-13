@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="640px"
+   height="495px"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   id="svg460"
+   sodipodi:docname="waxing cressent.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs464" />
+  <sodipodi:namedview
+     id="namedview462"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.2454977"
+     inkscape:cx="102.34371"
+     inkscape:cy="139.67738"
+     inkscape:window-width="1920"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg460" />
+  <circle
+     style="fill:#000000;stroke-width:0.642634"
+     id="path466"
+     cx="150"
+     cy="150"
+     r="70" />
+  <circle
+     style="fill:#ffffff;stroke-width:0.57837"
+     id="circle468"
+     cx="150"
+     cy="150"
+     r="63" />
+  <path
+     id="circle470"
+     style="stroke-width:0.445474"
+     d="m 81.433,148.96921 c 0,-32.77026 17.17908,-46.51808 39.68237,-59.3358 22.50329,-12.81772 39.68237,26.56554 39.68237,59.3358 0,32.77026 -22.94836,74.4106 -39.68237,59.33581 C 104.38136,193.23022 81.433,181.73947 81.433,148.96921 Z"
+     sodipodi:nodetypes="szzzs" />
+</svg>
