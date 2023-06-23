@@ -8,7 +8,7 @@ The outer center ring reperasents the month of the year the person was born on.
 
 The four to five inner notches reperasent gender four female and five male.
 
-In the very center is a svg of the phase of the moon on the date a person was born with support for the southern hemisphere.
+In the very center is a svg of the moon phase on the date a person was born with support for the southern hemisphere.
 
 The color of the rings reperasent the element of the month the person was born in.
 
